@@ -1,0 +1,315 @@
+2025-03-26 10:36:15,604 - INFO - Program STARTED
+2025-03-26 10:36:15,867 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:15,869 - INFO - Message to ESP32: 0.0,0.0,0.0,0.0,2000
+2025-03-26 10:36:18,306 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,582 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,613 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,644 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,675 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,705 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,739 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,768 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,797 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,828 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,859 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,907 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,944 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:18,991 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,037 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,083 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,129 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,175 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,221 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,267 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,313 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,358 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,404 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,451 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,497 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,542 - INFO - DRIVING_TO_HOME
+2025-03-26 10:36:19,817 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:19,817 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:19,864 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:19,864 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:19,910 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:19,910 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:19,956 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:19,956 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,003 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,003 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,047 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,048 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,093 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,093 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,137 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,137 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,185 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,185 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,232 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,232 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,278 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,278 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,325 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,325 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,371 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,371 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:20,418 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,463 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,509 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,555 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,601 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,647 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,647 - INFO - Message to ESP32: -0.0,0.0,0.0,0.0,101
+2025-03-26 10:36:20,692 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,739 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,739 - INFO - Message to ESP32: -1.0,0.0,0.0,0.0,100
+2025-03-26 10:36:20,785 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,831 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,832 - INFO - Message to ESP32: -2.0,0.0,0.0,0.0,100
+2025-03-26 10:36:20,878 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,923 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:20,924 - INFO - Message to ESP32: -2.0,0.0,0.0,0.0,100
+2025-03-26 10:36:20,969 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,015 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,015 - INFO - Message to ESP32: -3.0,0.0,0.0,0.0,100
+2025-03-26 10:36:21,061 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,107 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,107 - INFO - Message to ESP32: -2.0,0.0,0.0,0.0,100
+2025-03-26 10:36:21,159 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,200 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,201 - INFO - Message to ESP32: -1.0,0.0,0.0,0.0,101
+2025-03-26 10:36:21,245 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,291 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,291 - INFO - Message to ESP32: 1.0,0.0,0.0,0.0,101
+2025-03-26 10:36:21,338 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,384 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,384 - INFO - Message to ESP32: 3.0,0.0,0.0,0.0,101
+2025-03-26 10:36:21,435 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,435 - INFO - 
+2025-03-26 10:36:21,435 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,436 - INFO - Zoom_Successful, updating move_to_angles: [3.636, -0.101, -5.231, 5.332]
+2025-03-26 10:36:21,436 - INFO - Message to ESP32: 4.0,-0.0,-5.0,5.0,106
+2025-03-26 10:36:21,476 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,476 - INFO - 
+2025-03-26 10:36:21,476 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,476 - INFO - Zoom_Successful, updating move_to_angles: [4.509, -1.26, -5.217, 6.476999999999999]
+2025-03-26 10:36:21,522 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,522 - INFO - 
+2025-03-26 10:36:21,522 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,522 - INFO - Zoom_Successful, updating move_to_angles: [5.322, -2.412, -5.215, 7.627]
+2025-03-26 10:36:21,523 - INFO - Message to ESP32: 5.0,-2.0,-5.0,8.0,103
+2025-03-26 10:36:21,568 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,568 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:21,568 - INFO - 
+2025-03-26 10:36:21,568 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,568 - INFO - Zoom_Successful, updating move_to_angles: [5.303, -3.552, -5.251, 8.803]
+2025-03-26 10:36:21,614 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,615 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:21,615 - INFO - 
+2025-03-26 10:36:21,615 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,615 - INFO - Zoom_Successful, updating move_to_angles: [5.303, -4.663, -5.376, 10.039000000000001]
+2025-03-26 10:36:21,615 - INFO - Message to ESP32: 5.0,-5.0,-5.0,10.0,103
+2025-03-26 10:36:21,658 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,658 - INFO - 
+2025-03-26 10:36:21,658 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,658 - INFO - Zoom_Successful, updating move_to_angles: [5.962, -5.792, -5.372, 11.164]
+2025-03-26 10:36:21,706 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,706 - INFO - 
+2025-03-26 10:36:21,706 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,707 - INFO - Zoom_Successful, updating move_to_angles: [6.472, -6.932, -5.266, 12.679481860177876]
+2025-03-26 10:36:21,707 - INFO - Message to ESP32: 6.0,-7.0,-5.0,13.0,103
+2025-03-26 10:36:21,753 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,753 - INFO - 
+2025-03-26 10:36:21,753 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,753 - INFO - Zoom_Successful, updating move_to_angles: [6.478, -8.056, -5.168, 14.00511190637354]
+2025-03-26 10:36:21,799 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,799 - INFO - 
+2025-03-26 10:36:21,799 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,799 - INFO - Zoom_Successful, updating move_to_angles: [6.471, -9.107, -5.369, 15.342445682781653]
+2025-03-26 10:36:21,799 - INFO - Message to ESP32: 6.0,-9.0,-5.0,15.0,103
+2025-03-26 10:36:21,846 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,847 - INFO - 
+2025-03-26 10:36:21,847 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,847 - INFO - Zoom_Successful, updating move_to_angles: [6.474, -10.233, -5.139, 16.178272070338487]
+2025-03-26 10:36:21,891 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,891 - INFO - 
+2025-03-26 10:36:21,891 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,891 - INFO - Zoom_Successful, updating move_to_angles: [6.468, -11.253, -5.355, 17.22974328569942]
+2025-03-26 10:36:21,891 - INFO - Message to ESP32: 6.0,-11.0,-5.0,17.0,102
+2025-03-26 10:36:21,936 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,937 - INFO - 
+2025-03-26 10:36:21,937 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,937 - INFO - Zoom_Successful, updating move_to_angles: [6.473, -12.312, -5.301, 17.904665880523222]
+2025-03-26 10:36:21,983 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:21,983 - INFO - 
+2025-03-26 10:36:21,983 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:21,983 - INFO - Zoom_Successful, updating move_to_angles: [6.469, -13.361, -5.234, 18.319704440971037]
+2025-03-26 10:36:21,984 - INFO - Message to ESP32: 6.0,-13.0,-5.0,18.0,102
+2025-03-26 10:36:22,027 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,028 - INFO - 
+2025-03-26 10:36:22,028 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,028 - INFO - Zoom_Successful, updating move_to_angles: [6.474, -14.378, -5.257, 18.552065379905628]
+2025-03-26 10:36:22,075 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,075 - INFO - 
+2025-03-26 10:36:22,075 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,075 - INFO - Zoom_Successful, updating move_to_angles: [6.47, -15.367, -5.356, 18.758218037159843]
+2025-03-26 10:36:22,075 - INFO - Message to ESP32: 6.0,-15.0,-5.0,19.0,102
+2025-03-26 10:36:22,115 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,115 - INFO - 
+2025-03-26 10:36:22,115 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,115 - INFO - Zoom_Successful, updating move_to_angles: [6.474, -16.355, -5.392, 18.902424897237793]
+2025-03-26 10:36:22,153 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,153 - INFO - 
+2025-03-26 10:36:22,153 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,154 - INFO - Zoom_Successful, updating move_to_angles: [6.471, -17.348, -5.346, 18.984569699292358]
+2025-03-26 10:36:22,154 - INFO - Message to ESP32: 6.0,-17.0,-5.0,19.0,102
+2025-03-26 10:36:22,194 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,194 - INFO - 
+2025-03-26 10:36:22,194 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,194 - INFO - Zoom_Successful, updating move_to_angles: [6.474, -18.34, -5.247, 19.009671060730554]
+2025-03-26 10:36:22,232 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,232 - INFO - 
+2025-03-26 10:36:22,232 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,233 - INFO - Zoom_Successful, updating move_to_angles: [6.472, -19.301, -5.231, 19.066642013737287]
+2025-03-26 10:36:22,233 - INFO - Message to ESP32: 6.0,-19.0,-5.0,19.0,102
+2025-03-26 10:36:22,276 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,276 - INFO - 
+2025-03-26 10:36:22,276 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,276 - INFO - Zoom_Successful, updating move_to_angles: [6.476, -20.223, -5.338, 19.202521680842004]
+2025-03-26 10:36:22,321 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,322 - INFO - 
+2025-03-26 10:36:22,322 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,322 - INFO - Zoom_Successful, updating move_to_angles: [6.474, -21.165, -5.285, 19.230837447815304]
+2025-03-26 10:36:22,322 - INFO - Message to ESP32: 6.0,-21.0,-5.0,19.0,102
+2025-03-26 10:36:22,366 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,366 - INFO - 
+2025-03-26 10:36:22,366 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,366 - INFO - Zoom_Successful, updating move_to_angles: [6.477, -22.099, -5.202, 19.279858484696618]
+2025-03-26 10:36:22,412 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,412 - INFO - 
+2025-03-26 10:36:22,412 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,412 - INFO - Zoom_Successful, updating move_to_angles: [6.477, -23.011, -5.147, 19.371473210513535]
+2025-03-26 10:36:22,412 - INFO - Message to ESP32: 6.0,-23.0,-5.0,19.0,102
+2025-03-26 10:36:22,456 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,456 - INFO - 
+2025-03-26 10:36:22,456 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,457 - INFO - Zoom_Successful, updating move_to_angles: [6.481, -23.896, -5.158, 19.550203518585377]
+2025-03-26 10:36:22,505 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,505 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,505 - INFO - 
+2025-03-26 10:36:22,505 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,505 - INFO - Zoom_Successful, updating move_to_angles: [6.483, -24.762, -5.168, 20.426203518585375]
+2025-03-26 10:36:22,505 - INFO - Message to ESP32: 6.0,-25.0,-5.0,20.0,102
+2025-03-26 10:36:22,547 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,547 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,547 - INFO - 
+2025-03-26 10:36:22,547 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,547 - INFO - Zoom_Successful, updating move_to_angles: [6.482, -25.568, -5.355, 21.419203518585377]
+2025-03-26 10:36:22,592 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,592 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,592 - INFO - 
+2025-03-26 10:36:22,592 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,592 - INFO - Zoom_Successful, updating move_to_angles: [6.479, -26.421, -5.204, 22.121203518585375]
+2025-03-26 10:36:22,592 - INFO - Message to ESP32: 6.0,-26.0,-5.0,22.0,102
+2025-03-26 10:36:22,630 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,630 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,630 - INFO - 
+2025-03-26 10:36:22,630 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,631 - INFO - Zoom_Successful, updating move_to_angles: [6.483, -27.191, -5.348, 23.035203518585373]
+2025-03-26 10:36:22,673 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,673 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,673 - INFO - 
+2025-03-26 10:36:22,673 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,673 - INFO - Zoom_Successful, updating move_to_angles: [6.484, -27.982, -5.283, 23.761203518585372]
+2025-03-26 10:36:22,673 - INFO - Message to ESP32: 6.0,-28.0,-5.0,24.0,102
+2025-03-26 10:36:22,719 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,719 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,719 - INFO - 
+2025-03-26 10:36:22,719 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,719 - INFO - Zoom_Successful, updating move_to_angles: [6.482, -28.736, -5.296, 24.52820351858537]
+2025-03-26 10:36:22,761 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,761 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,761 - INFO - 
+2025-03-26 10:36:22,762 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,762 - INFO - Zoom_Successful, updating move_to_angles: [6.479, -29.456, -5.348, 25.300203518585366]
+2025-03-26 10:36:22,762 - INFO - Message to ESP32: 6.0,-29.0,-5.0,25.0,102
+2025-03-26 10:36:22,812 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,813 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,813 - INFO - 
+2025-03-26 10:36:22,813 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,813 - INFO - Zoom_Successful, updating move_to_angles: [6.481, -30.163, -5.357, 26.016203518585364]
+2025-03-26 10:36:22,813 - INFO - Message to ESP32: 6.0,-30.0,-5.0,26.0,101
+2025-03-26 10:36:22,852 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,852 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,852 - INFO - 
+2025-03-26 10:36:22,852 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,853 - INFO - Zoom_Successful, updating move_to_angles: [6.481, -30.886, -5.17, 26.552203518585358]
+2025-03-26 10:36:22,889 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,890 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,890 - INFO - 
+2025-03-26 10:36:22,890 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,890 - INFO - Zoom_Successful, updating move_to_angles: [6.478, -31.527, -5.288, 27.311203518585362]
+2025-03-26 10:36:22,890 - INFO - Message to ESP32: 6.0,-32.0,-5.0,27.0,102
+2025-03-26 10:36:22,934 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,934 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,934 - INFO - 
+2025-03-26 10:36:22,934 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,934 - INFO - Zoom_Successful, updating move_to_angles: [6.48, -32.198, -5.158, 27.852203518585366]
+2025-03-26 10:36:22,971 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:22,971 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:22,971 - INFO - 
+2025-03-26 10:36:22,971 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:22,972 - INFO - Zoom_Successful, updating move_to_angles: [6.479, -32.81, -5.209, 28.515203518585366]
+2025-03-26 10:36:22,972 - INFO - Message to ESP32: 6.0,-33.0,-5.0,29.0,101
+2025-03-26 10:36:23,012 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,012 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,012 - INFO - 
+2025-03-26 10:36:23,012 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,012 - INFO - Zoom_Successful, updating move_to_angles: [6.476, -33.396, -5.271, 29.163203518585362]
+2025-03-26 10:36:23,050 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,050 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,050 - INFO - 
+2025-03-26 10:36:23,050 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,050 - INFO - Zoom_Successful, updating move_to_angles: [6.477, -33.984, -5.228, 29.708203518585364]
+2025-03-26 10:36:23,050 - INFO - Message to ESP32: 6.0,-34.0,-5.0,30.0,101
+2025-03-26 10:36:23,089 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,089 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,089 - INFO - 
+2025-03-26 10:36:23,089 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,090 - INFO - Zoom_Successful, updating move_to_angles: [6.475, -34.519, -5.351, 30.36620351858536]
+2025-03-26 10:36:23,132 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,132 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,132 - INFO - 
+2025-03-26 10:36:23,132 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,132 - INFO - Zoom_Successful, updating move_to_angles: [6.477, -35.079, -5.239, 30.814203518585362]
+2025-03-26 10:36:23,133 - INFO - Message to ESP32: 6.0,-35.0,-5.0,31.0,101
+2025-03-26 10:36:23,176 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,176 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,176 - INFO - 
+2025-03-26 10:36:23,176 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,177 - INFO - Zoom_Successful, updating move_to_angles: [6.476, -35.613, -5.158, 31.267203518585365]
+2025-03-26 10:36:23,214 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,214 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,214 - INFO - 
+2025-03-26 10:36:23,214 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,215 - INFO - Zoom_Successful, updating move_to_angles: [6.479, -36.076, -5.339, 31.911203518585367]
+2025-03-26 10:36:23,215 - INFO - Message to ESP32: 6.0,-36.0,-5.0,32.0,101
+2025-03-26 10:36:23,258 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,258 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,258 - INFO - 
+2025-03-26 10:36:23,258 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,259 - INFO - Zoom_Successful, updating move_to_angles: [6.478, -36.572, -5.259, 32.32720351858537]
+2025-03-26 10:36:23,303 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,303 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,303 - INFO - 
+2025-03-26 10:36:23,303 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,304 - INFO - Zoom_Successful, updating move_to_angles: [6.481, -37.025, -5.296, 32.817203518585366]
+2025-03-26 10:36:23,304 - INFO - Message to ESP32: 6.0,-37.0,-5.0,33.0,101
+2025-03-26 10:36:23,351 - INFO - Evaluating_Offsets | -find_angles- function
+2025-03-26 10:36:23,351 - INFO - Result: Inside DEADBAND
+2025-03-26 10:36:23,351 - INFO - 
+2025-03-26 10:36:23,351 - INFO - Enter_Zoom_Function, IN
+2025-03-26 10:36:23,351 - INFO - Zoom_Successful, updating move_to_angles: [6.48, -37.458, -5.341, 33.29520351858537]
+2025-03-26 10:36:23,478 - INFO - UI_Closed
+2025-03-26 10:36:23,732 - INFO - DRIVING_TO_REST
+2025-03-26 10:36:23,734 - INFO - Message to ESP32: 0.0,90.0,-90.0,-45.0,1000
