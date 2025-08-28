@@ -1,0 +1,8 @@
+Copyright © 2025 MeVirtuoso.com
+
+These files (3D models, STL, STEP, Python code) are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) with the following additional restriction:
+
+You are permitted to modify, remix, adapt, and build upon this material, even commercially, provided you give appropriate credit to MeVirtuoso.com and indicate clearly if changes were made. Redistribution of these files in their original, unmodified form is strictly prohibited. Modified or derivative versions must be clearly distinguished from the original and can be distributed under the same (CC BY-SA 4.0) license.
+
+Full license terms:
+https://creativecommons.org/licenses/by-sa/4.0/
